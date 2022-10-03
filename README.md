@@ -25,7 +25,6 @@ In this capstone, we will predict if the Falcon 9 first stage will land successf
 6. [Model evaluation.](https://github.com/Athari22/Applied-Data-Science-Capstone/blob/main/Machine_Learning_Prediction.ipynb)
 7. [Reporting.](https://github.com/Athari22/Applied-Data-Science-Capstone/blob/main/Data%20Science%20Capstone.pdf)
 
-![This is an image](https://github.com/Athari22/Applied-Data-Science-Capstone/blob/main/m.png)
 
 
 
