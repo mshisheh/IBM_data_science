@@ -17,13 +17,13 @@ In this capstone, we will predict if the Falcon 9 first stage will land successf
 - Using your data analysis tools to load a dataset, clean it, and find out interesting insights from it.
 
 ## Methodology
-1. [Data collection.](https://github.com/mshisheh/IBM_data_science/Data-collection-api.ipynb)
-2. [Data wrangling.](https://github.com/mshisheh/IBM_data_science/Data%20wrangling.ipynb) 
-3. [Exploratory data analysis.](https://github.com/mshisheh/IBM_data_science/eda-sql.ipynb)
-4. [Data visualization.](https://github.com/Athari22/Applied-Data-Science-Capstone/blob/main/EDA%20with%20Visualization.ipynb)
-5. [Model development.](https://github.com/Athari22/Applied-Data-Science-Capstone/blob/main/Machine_Learning_Prediction.ipynb)
-6. [Model evaluation.](https://github.com/Athari22/Applied-Data-Science-Capstone/blob/main/Machine_Learning_Prediction.ipynb)
-7. [Reporting.](https://github.com/Athari22/Applied-Data-Science-Capstone/blob/main/Data%20Science%20Capstone.pdf)
+1. [Data collection.](https://github.com/mshisheh/IBM_data_science/blob/main/Data-collection-api.ipynb)
+2. [Data wrangling.](https://github.com/mshisheh/IBM_data_science/blob/main/Data%20wrangling.ipynb) 
+3. [Exploratory data analysis.](https://github.com/mshisheh/IBM_data_science/blob/main/eda-sql.ipynb)
+4. [Data visualization.](https://github.com/mshisheh/IBM_data_science/blob/main/EDA%20with%20Visualization.ipynb)
+5. [Model development.](https://github.com/mshisheh/IBM_data_science/blob/main/Machine_Learning_Prediction.ipynb)
+6. [Model evaluation.](https://github.com/mshisheh/IBM_data_science/blob/main/Machine_Learning_Prediction.ipynb)
+7. [Reporting.](https://github.com/mshisheh/IBM_data_science/blob/main/Data%20Science%20Capstone.pdf)
 
 
 
